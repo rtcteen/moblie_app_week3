@@ -10,7 +10,7 @@ class Answer2 extends StatelessWidget {
         title: const Text("Social Media Post",
           style: TextStyle(color: Color.fromARGB(255, 245, 245, 245),),
         ),
-        backgroundColor: Colors.deepPurple,
+        backgroundColor: Colors.green,
       ),
       body: Container(
         padding: const EdgeInsets.all(10),

@@ -16,7 +16,7 @@ class AnswerPortal extends StatelessWidget {
             style: TextStyle(color: Color.fromARGB(255, 245, 245, 245),),
           ),
         ),
-        backgroundColor: Colors.deepPurple,
+        backgroundColor: Colors.green,
       ),
       body: Container(
         color: Colors.deepPurple[50],
