@@ -10,7 +10,7 @@ class Answer4 extends StatelessWidget {
         title: const Text("Profile Page",
           style: TextStyle(color: Color.fromARGB(255, 245, 245, 245),),
         ),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.deepPurple,
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,

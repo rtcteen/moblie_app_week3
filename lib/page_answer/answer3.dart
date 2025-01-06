@@ -10,7 +10,7 @@ class Answer3 extends StatelessWidget {
         title: const Text('Product Layout',
           style: TextStyle(color: Color.fromARGB(255, 245, 245, 245),),
         ),
-        backgroundColor: Colors.green,
+        backgroundColor: Colors.deepPurple,
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.start,
